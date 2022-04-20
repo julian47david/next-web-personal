@@ -8,7 +8,7 @@ const Skills = () => {
                 </h3>
                 <div className="skills_div">
                     <p className="font-P400 skills_p">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, porro.
+                    Aqui algunas de las herramientas y tecnologias que uso
                     </p>
 
                     <div className="skills_logos">

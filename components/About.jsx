@@ -13,7 +13,16 @@ const About = () => {
                     </div>
 
                     <p className="font-P400 about_p">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, porro.
+                    Soy Frontend Developer y estoy busqueda de nuevos y desafiantes proyectos para poner a prueba mis conocimientos e implentar nuevas tecnologias. 
+                    <br />Me describo como una persona organizada, creativa y responsable.
+                    <br />
+                    <br />
+                    Aqui algunos de los cursos que hice: HTML5, CSS3, SASS, JavaScript, Bootstrap 4 y UX.
+                    <br />
+                    <br />
+                    Actualmente me encuentro especializandome en React y Next.
+                    <br />
+                    Estoy ancioso de formar parte de un equipo y poder crear cosas nuevas.
                     </p>
                     
                 </div>
@@ -32,7 +41,9 @@ const About = () => {
                     flex-direction: column;
                 }
                 .about_p{
-
+                    width: 80%;
+                    text-align: left;
+                    font-size: 15px;
                 }
                 .about_svg{
 
